@@ -6,7 +6,7 @@ Students will practice
 * creating and cloning repositories
 * making and deleting development branches
 * making and reviewing pull requests
-* deciphering diffs
+* deciphering git diffs
 
 ## Resources
 
