@@ -1,3 +1,4 @@
+VANDALISM!
 asdlkasdjflajksdf# Intro to git and GitHub
 
 This introductory lesson is designed to get students
