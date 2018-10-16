@@ -9,7 +9,6 @@ Students will practice
 * making and deleting development branches
 * making and reviewing pull requests
 * deciphering git diffs
-* making changes!
 
 #### Resources
 
