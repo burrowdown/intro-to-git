@@ -1,7 +1,1 @@
-This is a new file
-
-Changes of any kind will be tracked by git
-
-Any kind of change at all
-
-for real
+there was once a boy who
